@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/7j7dp7he7f3sgebx/branch/master?svg=true)](https://ci.appveyor.com/project/TatianaRudikova/basicsofautomation-selenide/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/fg4t7mrv68wrktq4?svg=true)](https://ci.appveyor.com/project/malushkru0878/carddeliverys)
 
 # Домашнее задание к занятию «2.2. Selenide»
 
